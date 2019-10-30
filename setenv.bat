@@ -1,0 +1,5 @@
+SET ANT_HOME=C:\DEV\Tools\apache-ant-1.9.14
+SET JAVA_HOME=C:\DEV\SDK\jdk-8u999-windows-i586\jdk1.8.0_999
+SET ANT_OPTS=-Dfile.encoding=EUC-KR
+SET PATH=%JAVA_HOME%\BIN;%ANT_HOME%\bin;.;%PATH%
+SET CLASSPATH=.
